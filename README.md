@@ -1,7 +1,8 @@
 # Block_Chain_Self_Study
 on window
+-----------------
 
-## Download : Geth
+## Download Geth
 
 ## Running Geth on test network
 ### 1. Make genesis.json file
