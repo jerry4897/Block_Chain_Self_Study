@@ -2,7 +2,7 @@
 on window
 -----------------
 
-## 1. Download Geth
+## 1. Download Geth(version 1.7.3)
 
 ## 2. Running Geth on test network
 ### - Make genesis.json file
